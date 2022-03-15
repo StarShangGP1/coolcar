@@ -1,0 +1,17 @@
+{
+    "configurations": [
+
+
+    {
+        "name": "Launch",
+        "type": "go",
+        "request": "launch",
+        "mode": "auto",
+        "program": "${fileDirname}",
+        "env": {
+          // "GOPATH":"C:\\Go\\src",
+          // "GOROOT":"C:/Go/bin",  
+        },
+    },
+    ]
+}
